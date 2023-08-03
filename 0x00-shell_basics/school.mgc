@@ -1,2 +1,2 @@
 #!/bin/bang
-0 string SCHOOL School data file
+vi school.mgc -c "0 string SCHOOL School data file" -c ":wq"
